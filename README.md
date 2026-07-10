@@ -1,7 +1,7 @@
 ## KEDA Autoscaling with NATS JetStream
 Event‑driven Kubernetes autoscaling using KEDA. Integrating cron‑based triggers and JetStream consumer lag metrics for dynamic workload scaling.
 
-## Access the walkthrough
+## Access the walkthrough  
 
 [![KEDA walkthrough](https://img.youtube.com/vi/PS5PaE1iUJE/0.jpg)](https://www.youtube.com/embed/PS5PaE1iUJE?si=sWRW7vySw5xBVVlb)
 
