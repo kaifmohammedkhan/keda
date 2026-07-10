@@ -9,7 +9,7 @@ Event‑driven Kubernetes autoscaling using KEDA. Integrating cron‑based trigg
 
 ## 🛠 Deployment Strategy
 <div align="center">
-<img src="images/keda/keda.png" width="1000"/>
+<img src="images/keda/keda1.png" width="1000"/>
 </div>
 
 ## Step 1: Base Layer Setup
